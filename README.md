@@ -62,7 +62,7 @@ Wanna know more about who I am and why I’m back ?
 
 ### <p align="center"> 𓁟⇣
 
-### <p align="center">  [Start to Play](https://fabianacampanari.github.io/THQTH-Awakening-Game/)
+### <p align="center">  [Start to Play](https://fabianacampanari.github.io/THQTH-HERMES-Awakening-Game/)
 
 <p align="center" style="font-size: 1.4em;"><em>Welcome to the guessing game.</em></p>  
 <p align="center" style="font-size: 1.6em;">Your task: uncover the hidden number. 𓂀</p>  
